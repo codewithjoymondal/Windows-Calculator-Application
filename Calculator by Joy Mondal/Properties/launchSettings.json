@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Calculator by Joy Mondal": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false,
+      "sqlDebugging": false,
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}

@@ -1,0 +1,45 @@
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.exe
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.deps.json
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.runtimeconfig.json
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\ref\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.pdb
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.AssemblyReference.cache
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator_by_Joy_Mondal.Form.resources
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.GenerateResource.cache
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.GeneratedMSBuildEditorConfig.editorconfig
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfoInputs.cache
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfo.cs
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.CoreCompileInputs.cache
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\ref\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.pdb
+J:\My Work\My Code\Application\For Windows\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.genruntimeconfig.cache
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.exe
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.deps.json
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.runtimeconfig.json
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\ref\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin\Debug\net6.0-windows\Calculator by Joy Mondal.pdb
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator_by_Joy_Mondal.Form.resources
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.GenerateResource.cache
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.GeneratedMSBuildEditorConfig.editorconfig
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfoInputs.cache
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfo.cs
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.CoreCompileInputs.cache
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\ref\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.pdb
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.genruntimeconfig.cache
+J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator_by_Joy_Mondal.Text_Effact.resources
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator_by_Joy_Mondal.Form.resources
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator_by_Joy_Mondal.Text_Effact.resources
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.GenerateResource.cache
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.GeneratedMSBuildEditorConfig.editorconfig
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfoInputs.cache
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.AssemblyInfo.cs
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.csproj.CoreCompileInputs.cache
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\ref\Calculator by Joy Mondal.dll
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.pdb
+J:\My Work\My Code\Application\For Windows\Calculator\Calculator by Joy Mondal\obj\Debug\net6.0-windows\Calculator by Joy Mondal.genruntimeconfig.cache

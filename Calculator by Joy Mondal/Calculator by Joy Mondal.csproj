@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Calculator_by_Joy_Mondal</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Calculator.ico</ApplicationIcon>
+    <BaseOutputPath>J:\My Work\My Code\Application\New folder\Calculator by Joy Mondal\bin</BaseOutputPath>
+    <Authors>Joy Mondal</Authors>
+    <Company>CodeWithJoyMondal</Company>
+    <Description>This is Simple Calculator</Description>
+    <Copyright>Copyright by Joy Mondal</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Calculator</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Calculator.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\joymo\Downloads\codewithjoymondal-main\codewithjoymondal-main\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
